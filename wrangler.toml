@@ -1,4 +1,4 @@
-name = "synctube-worker"
+name = "synctubepl"
 main = "./index.js"
 compatibility_date = "2026-07-07"
 workers_dev = true
